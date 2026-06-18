@@ -1,1 +1,1 @@
-![Genesis Pixel](img/favicon.jpg)
+![Genesis Pixel](img/preview.jpg)
